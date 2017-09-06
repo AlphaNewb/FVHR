@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.falkirkvanhire.appstore" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Falkirk Van Hire & Removals</name>
+    <name>Falkirk Van Hire &amp; Removals</name>
     <description>
-        Falkirk Van Hire & Removals - Falkirks Favourite Man With A Van Hire Company. .
+        Falkirk Van Hire &amp; Removals - Falkirks Favourite Man With A Van Hire Company. .
     </description>
     <author email="vans@falkirkvanhire.com href="http://www.falkirkvanhire.com">
-        Falkirk Van Hire & Removals
+        Falkirk Van Hire &amp; Removals
     </author>
     <content src="index.html" />
 	<preference name="permissions" value="none"/>
