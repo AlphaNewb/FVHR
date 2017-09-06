@@ -12,12 +12,12 @@
 	<preference name="DisallowOverscroll" value="true" />
     <preference name="android-minSdkVersion" value="14" />
     <platform name="android">
-        <icon density="ldpi" src="res/icon/android/icon.png" />
-        <icon density="mdpi" src="res/icon/android/icon.png" />
-        <icon density="hdpi" src="res/icon/android/icon.png" />
-        <icon density="xhdpi" src="res/icon/android/icon.png" />
-        <icon density="xxhdpi" src="res/icon/android/icon.png" />
-        <icon density="xxxhdpi" src="res/icon/android/icon.png" />
+        <icon density="ldpi" src="www/res/icon/android/icon.png" />
+        <icon density="mdpi" src="www/res/icon/android/icon.png" />
+        <icon density="hdpi" src="www/res/icon/android/icon.png" />
+        <icon density="xhdpi" src="www/res/icon/android/icon.png" />
+        <icon density="xxhdpi" src="www/res/icon/android/icon.png" />
+        <icon density="xxxhdpi" src="www/res/icon/android/icon.png" />
     </platform>
     <platform name="ios">
         <icon height="57" platform="ios" src="www/res/icon/ios/icon.png" width="57" />
