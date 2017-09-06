@@ -2,7 +2,7 @@
 <widget id="com.falkirkvanhire.fvhr" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>Falkirk Van Hire &amp; Removals</name>
     <description>
-        Falkirk Van Hire &amp; Removals - Falkirks Favourite Man With A Van Hire Company. .
+        Falkirk Van Hire &amp; Removals - Falkirks Favourite Man With A Van Hire Company...
     </description>
     <author email="vans@falkirkvanhire.com" href="http://www.falkirkvanhire.com">
         Falkirk Van Hire &amp; Removals
@@ -12,12 +12,12 @@
 	<preference name="DisallowOverscroll" value="true" />
     <preference name="android-minSdkVersion" value="14" />
     <platform name="android">
-        <icon density="ldpi" src="www/res/icon/android/icon.png" />
-        <icon density="mdpi" src="www/res/icon/android/icon.png" />
-        <icon density="hdpi" src="www/res/icon/android/icon.png" />
-        <icon density="xhdpi" src="www/res/icon/android/icon.png" />
-        <icon density="xxhdpi" src="www/res/icon/android/icon.png" />
-        <icon density="xxxhdpi" src="www/res/icon/android/icon.png" />
+        <icon density="ldpi" src="res/icon/android/icon.png" />
+        <icon density="mdpi" src="res/icon/android/icon.png" />
+        <icon density="hdpi" src="res/icon/android/icon.png" />
+        <icon density="xhdpi" src="res/icon/android/icon.png" />
+        <icon density="xxhdpi" src="res/icon/android/icon.png" />
+        <icon density="xxxhdpi" src="res/icon/android/icon.png" />
     </platform>
     <platform name="ios">
         <icon height="57" platform="ios" src="www/res/icon/ios/icon.png" width="57" />
@@ -58,5 +58,7 @@
     </platform>
 	
 	<access origin="http://www.falkirkvanhire.com" />
+	<access origin="tel:*" launch-external="yes" /> 
 
 </widget>
+
